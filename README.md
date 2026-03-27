@@ -46,12 +46,6 @@
   <a href="https://samuel-hiro.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-samuel--hiro.dev-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
-  <a href="https://twitter.com/virtualhiro" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://instagram.com/sxmu.slv" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </div>
 
 <br/>
