@@ -15,7 +15,7 @@
 <h3 align="center">Desenvolvedor web em evolução · Teresina-PI, Brasil</h3>
 
 <p align="center">
-    <strong>Web, QA, bug reporting</strong> e interesse sério em <strong>cybersecurity</strong> — alinhado ao meu <a href="https://samuel-hiro.dev">portfólio</a>.
+    <strong>Web, QA, bug reporting</strong> e interesse sério em <strong>cybersecurity</strong> — alinhado ao meu <a href="https://bughiro.dev">portfólio</a>.
 </p>
 
 <br/>
