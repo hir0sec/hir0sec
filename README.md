@@ -132,5 +132,5 @@
 </p>
 
 <p align="center">
-  <sub>Samuel (hiro) · <a href="https://bughiro.dev">samuel-hiro.dev</a></sub>
+  <sub>Samuel (hiro) · <a href="https://bughiro.dev">bughiro.dev</a></sub>
 </p>
